@@ -1,0 +1,85 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>research &#8211; Sloppy</title>
+	<atom:link href="https://https://gopaldahale.github.io/wpslopp/category/research/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://gopaldahale.github.io/wpslopp</link>
+	<description></description>
+	<lastBuildDate>Tue, 17 Oct 2023 10:42:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>fifth post</title>
+		<link>https://https://gopaldahale.github.io/wpslopp/2023/10/16/fifth-post/</link>
+					<comments>https://https://gopaldahale.github.io/wpslopp/2023/10/16/fifth-post/#comments</comments>
+		
+		<dc:creator><![CDATA[sloppy]]></dc:creator>
+		<pubDate>Mon, 16 Oct 2023 10:16:30 +0000</pubDate>
+				<category><![CDATA[research]]></category>
+		<guid isPermaLink="false">https://https://gopaldahale.github.io/wpslopp/?p=36</guid>
+
+					<description><![CDATA[Keep in mind that accessing the database directly is typically for debugging or recovery purposes. In a production environment, password retrieval should be done through proper WordPress user management methods.Keep in mind that accessing the database directly is typically for debugging or recovery purposes. In a production environment, password retrieval should be done through proper [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Keep in mind that accessing the database directly is typically for debugging or recovery purposes. In a production environment, password retrieval should be done through proper WordPress user management methods.Keep in mind that accessing the database directly is typically for debugging or recovery purposes. In a production environment, password retrieval should be done through proper WordPress user management methods.</p>
+
+
+
+<p>If you need to reset the admin password, you can do so by updating it directly in the database. Use a tool like phpMyAdmin or SQL command to update the <code>user_pass</code> field. However, it&#8217;s essential to generate a new hashed password to replace the existing one for security reasons.If you need to reset the admin password, you can do so by updating it directly in the database. Use a tool like phpMyAdmin or SQL command to update the <code>user_pass</code> field. However, it&#8217;s essential to generate a new hashed password to replace the existing one for security reasons.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" fetchpriority="high" width="1440" height="781" class="wp-image-37" src="https://https://gopaldahale.github.io/wpslopp/wp-content/uploads/2023/10/Rectangle-13.png" alt="" /></figure>
+
+
+
+<p>If you need to reset the admin password, you can do so by updating it directly in the database. Use a tool like phpMyAdmin or SQL command to update the <code>user_pass</code> field. However, it&#8217;s essential to generate a new hashed password to replace the existing one for security reasons.If you need to reset the admin password, you can do so by updating it directly in the database. Use a tool like phpMyAdmin or SQL command to update the <code>user_pass</code> field. However, it&#8217;s essential to generate a new hashed password to replace the existing one for security reasons.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://gopaldahale.github.io/wpslopp/2023/10/16/fifth-post/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>fouth post</title>
+		<link>https://https://gopaldahale.github.io/wpslopp/2023/10/16/fouth-post/</link>
+					<comments>https://https://gopaldahale.github.io/wpslopp/2023/10/16/fouth-post/#respond</comments>
+		
+		<dc:creator><![CDATA[sloppy]]></dc:creator>
+		<pubDate>Mon, 16 Oct 2023 10:14:54 +0000</pubDate>
+				<category><![CDATA[research]]></category>
+		<guid isPermaLink="false">https://https://gopaldahale.github.io/wpslopp/?p=33</guid>
+
+					<description><![CDATA[We’re looking forward to hearing from you The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you. coming by and saying hi hearing from you The best way to get in touch [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>We’re looking forward to hearing from you The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.</p>
+
+
+
+<p>coming by and saying hi hearing from you The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.hearing from you The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.hearing from you The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.hearing from you The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.hearing from you The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1880" height="653" class="wp-image-34" src="https://https://gopaldahale.github.io/wpslopp/wp-content/uploads/2023/10/silver-metallic-textured-background-1.jpg" alt="" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://gopaldahale.github.io/wpslopp/2023/10/16/fouth-post/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
