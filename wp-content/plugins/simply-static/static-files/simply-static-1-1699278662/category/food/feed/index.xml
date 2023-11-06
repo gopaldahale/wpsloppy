@@ -1,0 +1,81 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>food &#8211; Sloppy</title>
+	<atom:link href="https://gopaldahale.github.io/gdahalewordpress/category/food/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gopaldahale.github.io/gdahalewordpress</link>
+	<description></description>
+	<lastBuildDate>Tue, 17 Oct 2023 10:41:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>third post</title>
+		<link>https://gopaldahale.github.io/gdahalewordpress/2023/10/16/third-post/</link>
+					<comments>https://gopaldahale.github.io/gdahalewordpress/2023/10/16/third-post/#respond</comments>
+		
+		<dc:creator><![CDATA[sloppy]]></dc:creator>
+		<pubDate>Mon, 16 Oct 2023 10:11:34 +0000</pubDate>
+				<category><![CDATA[food]]></category>
+		<guid isPermaLink="false">https://gopaldahale.github.io/gdahalewordpress/?p=29</guid>
+
+					<description><![CDATA[The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.The best way to get in touch with us is by writing us an email, giving us a call or simply coming by [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.</p>
+
+
+
+<p>The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.The best way to get in touch with us is by writing us an email, giving us a call or simply coming by and saying hi. We’re looking forward to hearing from you.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" fetchpriority="high" width="1440" height="781" class="wp-image-30" src="https://gopaldahale.github.io/gdahalewordpress/wp-content/uploads/2023/10/carlos-muza-hpjSkU2UYSU-unsplash-1-1.png" alt="" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gopaldahale.github.io/gdahalewordpress/2023/10/16/third-post/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>second post</title>
+		<link>https://gopaldahale.github.io/gdahalewordpress/2023/10/13/second-post/</link>
+					<comments>https://gopaldahale.github.io/gdahalewordpress/2023/10/13/second-post/#comments</comments>
+		
+		<dc:creator><![CDATA[sloppy]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2023 17:24:23 +0000</pubDate>
+				<category><![CDATA[food]]></category>
+		<guid isPermaLink="false">https://gopaldahale.github.io/gdahalewordpress/?p=23</guid>
+
+					<description><![CDATA[this is from excerpt use the_excerpt(); in index.php ]]></description>
+										<content:encoded><![CDATA[
+<p>Engineers, medical people, scientific people, have an obsession with solving the problems of reality, once you reach a basic level of wealth in create entire designs with</p>
+
+
+
+<p>Engineers, medical people, scientific people, have an obsession with solving the problems of reality, once you reach a basic level of wealth in society, most problems are actually problems of perception.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="633" height="357" class="wp-image-24" src="https://gopaldahale.github.io/gdahalewordpress/wp-content/uploads/2023/10/1-Cover-copy-2.png" alt="" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gopaldahale.github.io/gdahalewordpress/2023/10/13/second-post/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,53 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>travel &#8211; Sloppy</title>
+	<atom:link href="https://gopaldahale.github.io/gdahalewordpress/category/travel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gopaldahale.github.io/gdahalewordpress</link>
+	<description></description>
+	<lastBuildDate>Tue, 17 Oct 2023 10:40:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>first post</title>
+		<link>https://gopaldahale.github.io/gdahalewordpress/2023/10/13/hello-world/</link>
+					<comments>https://gopaldahale.github.io/gdahalewordpress/2023/10/13/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[sloppy]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2023 13:25:16 +0000</pubDate>
+				<category><![CDATA[travel]]></category>
+		<guid isPermaLink="false">https://gopaldahale.github.io/gdahalewordpress/?p=1</guid>
+
+					<description><![CDATA[none]]></description>
+										<content:encoded><![CDATA[
+<p>Engineers, medical people, scientific people, have an obsession with solving the problems of reality, once you reach a basic level of wealth in create entire designs with</p>
+
+
+
+<p>Engineers, medical people, scientific people, have an obsession with solving the problems of reality, once you reach a basic level of wealth in society, most problems are actually problems of perception.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" fetchpriority="high" width="1440" height="781" class="wp-image-20" src="https://gopaldahale.github.io/gdahalewordpress/wp-content/uploads/2023/10/carlos-muza-hpjSkU2UYSU-unsplash-1.png" alt="" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gopaldahale.github.io/gdahalewordpress/2023/10/13/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
